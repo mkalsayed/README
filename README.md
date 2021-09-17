@@ -3,7 +3,7 @@
 
 # Introduction
 
-My Name is 
+ 
 
 
 # Requirements
