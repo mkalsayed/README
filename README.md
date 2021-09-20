@@ -8,7 +8,7 @@ You must analyze your students and ask how they want the final grade to be distr
 
 # Requirements
 
-
+Any Python compiler
 
 # Pseudo Code
 
